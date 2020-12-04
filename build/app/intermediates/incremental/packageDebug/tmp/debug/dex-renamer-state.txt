@@ -1,0 +1,4 @@
+#Fri Dec 04 22:47:41 IST 2020
+base.0=/home/lenovo07/ashishProject/flutterCodes/flutter_bitbucket/delivery_app/delivery_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,264 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2018-05-20T17:16:46.997414",
+  "content": "Collaborate Across the Chain",
+  "@content": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login In",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signup": "Sign Up",
+  "@signup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveaccount": "Do you have an account?",
+  "@haveaccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "havenotaccount": "Don\\'t have an account?",
+  "@havenotaccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accept": " I accept the ",
+  "@accept": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "term": "term & condition",
+  "@term": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "withgoogle": "Sign in with Google",
+  "@withgoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forget": "Forgot Password?",
+  "@forget": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dispatch": "Dispatch",
+  "@dispatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tracker": "Tracker",
+  "@tracker": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "qrscan": "Qr Scan",
+  "@qrscan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "Notification",
+  "@notification": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createdispatch": "Create Dispatch",
+  "@createdispatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orginfo": "Organizational information",
+  "@orginfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyname": "Company Name",
+  "@companyname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orgrole": "Organization Role",
+  "@orgrole": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "website": "Website",
+  "@website": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "overview": "Overview",
+  "@overview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "industry": "Industry",
+  "@industry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "origin": "Origin",
+  "@origin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "destination": "Destination",
+  "@destination": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dispatchdate": "Dispatch Date",
+  "@dispatchdate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packageref": "Package Reference",
+  "@packageref": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dispatcher": "Dispatcher",
+  "@dispatcher": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trailertype": "Trailer Type",
+  "@trailertype": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "id": "ID number",
+  "@id": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "coninfo": "Сontact info",
+  "@coninfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trailernumber": "Trailer number",
+  "@trailernumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commodity": "Commodity",
+  "@commodity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "weight": "Weight",
+  "@weight": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packages": "Packages",
+  "@packages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "volumes": "Volumes",
+  "@volumes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cargo": "Cargo details",
+  "@cargo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driverdetail": "Driver details",
+  "@driverdetail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status": "Status",
+  "@status": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delivery": "Delivery Information",
+  "@delivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driver": "I am a Driver",
+  "@driver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "user": "I am a User",
+  "@user": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "username": "Username",
+  "@username": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_valid_username": "Not Valid Username",
+  "@not_valid_username": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password_is_too_short": "password is too short",
+  "@password_is_too_short": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "عربي",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "links": "Links",
+  "@links": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contacts": "Contact Number",
+  "@contacts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "attendance": "Attendance",
+  "@attendance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support": "Support",
+  "@support": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "Profile",
+  "@profile": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

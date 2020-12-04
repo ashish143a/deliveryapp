@@ -1,0 +1,264 @@
+{
+  "@@locale": "ar",
+  "@@last_modified": "2018-05-20T17:16:46.997414",
+  "content": "تعاون عبر السلسلة",
+  "@content": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signup": "سجل",
+  "@signup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveaccount": "هل لديك حساب؟",
+  "@haveaccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "havenotaccount": "ليس لديك حساب؟",
+  "@havenotaccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accept": "أقبل",
+  "@accept": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "term": "الشروط و الأحكام",
+  "@term": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "البريد الإلكتروني",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "withgoogle": "الدخول مع جوجل",
+  "@withgoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forget": "هل نسيت كلمة المرور؟",
+  "@forget": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dispatch": "إيفاد",
+  "@dispatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tracker": "تعقب",
+  "@tracker": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "qrscan": "Qr Scan",
+  "@qrscan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "تنبيه",
+  "@notification": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orginfo": "المعلومات التنظيمية",
+  "@orginfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createdispatch": "إنشاء ديسباتش",
+  "@createdispatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyname": "اسم الشركة",
+  "@companyname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orgrole": "دور المنظمة",
+  "@orgrole": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "website": "موقع الكتروني",
+  "@website": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "overview": "نظرة عامة",
+  "@overview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "industry": "صناعة",
+  "@industry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "origin": "الأصل",
+  "@origin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "destination": "المكان المقصود",
+  "@destination": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dispatchdate": "تاريخ الإرسال",
+  "@dispatchdate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packageref": "مرجع الحزمة",
+  "@packageref": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dispatcher": "المرسل",
+  "@dispatcher": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trailertype": "نوع المقطورة",
+  "@trailertype": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "id": "رقم الهوية",
+  "@id": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "coninfo": "معلومات الاتصال",
+  "@coninfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trailernumber": "رقم المقطورة",
+  "@trailernumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commodity": "ملاءمة",
+  "@commodity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "weight": "وزن",
+  "@weight": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packages": "الحزم",
+  "@packages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "volumes": "أحجام",
+  "@volumes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "حفظ",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cargo": "تفاصيل البضائع",
+  "@cargo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driverdetail": "تفاصيل السائق",
+  "@driverdetail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status": "الحالة",
+  "@status": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delivery": "معلومات التوصيل",
+  "@delivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driver": "أنا سائق",
+  "@driver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "user": "أنا مستخدم",
+  "@user": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "username": "اسم المستخدم",
+  "@username": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_valid_username": "اسم المستخدم غير صحيح",
+  "@not_valid_username": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "كلمة المرور",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password_is_too_short": "كلمة المرور غير صحيحه",
+  "@password_is_too_short": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "English",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "links": "الروابط",
+  "@links": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contacts": "رقم الاتصال",
+  "@contacts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "attendance": "الحضور",
+  "@attendance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support": "الدعم",
+  "@support": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "الملف الشخصي",
+  "@profile": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
